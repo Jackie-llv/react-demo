@@ -1,0 +1,17 @@
+
+{
+  "presets": [
+    ["@babel/preset-react", {
+      "runtime": "automatic"
+    }]
+  ],
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "libraryDirectory": "es"
+      }
+    ]
+  ]
+}
