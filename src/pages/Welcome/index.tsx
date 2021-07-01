@@ -1,6 +1,6 @@
 function Index() {
   return (
-    <div>welcome</div>
+    <div>Welcome</div>
   );
 }
 
